@@ -12,7 +12,7 @@ source venv/bin/activate  # или venv\Scripts\activate на Windows
 ```
 3. Установи зависимости:
 ```
-pip install fastapi motor uvicorn pydantic_settings
+pip install fastapi motor uvicorn pydantic
 ```
 4. Установи [MongoDB Compas](https://www.mongodb.com/try/download/compass) — удобный GUI-клиент.
 5. Поднимай MongoDB в Docker:
