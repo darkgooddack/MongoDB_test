@@ -10,5 +10,5 @@ source venv/bin/activate  # или venv\Scripts\activate на Windows
 ```
 
 ```
-pip install fastapi motor uvicorn pydantic[dotenv]
+pip install fastapi motor uvicorn pydantic_settings
 ```
