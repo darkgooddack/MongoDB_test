@@ -8,7 +8,7 @@ python -m venv venv
 ```
 2. Активируй его:
 ```
-source venv/bin/activate  # или venv\Scripts\activate на Windows
+source .venv/bin/activate  # или .venv\Scripts\activate на Windows
 ```
 3. Установи зависимости:
 ```
